@@ -1,6 +1,6 @@
 # MySQL Assignments
 
-A collection of MySQL practice assignments and SQL query solutions covering core SQL concepts, database design, and advanced MySQL features using the ClassicModels database and custom-created tables.
+A collection of MySQL practice questions and SQL query solutions covering core SQL concepts, database design, and advanced MySQL features using the ClassicModels database and custom-created tables.
 
 ---
 
